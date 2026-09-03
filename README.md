@@ -19,8 +19,8 @@ Step 6:Display details give in MainActivity file.
 Step 7: Save and run the application.
 ## PROGRAM:
 Program to create and design an android application simple calculator using Intent.
-### Developed by: B Arputha
-### Registeration Number :212225040028
+### Developed by: K Darren Joseph
+### Registeration Number :212225230039
 
 ## AndroidMainfest.xml
 ```
